@@ -1,0 +1,71 @@
+
+### java ( https://github.com/github/gitignore.git ) 
+
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+
+### maven ( https://github.com/github/gitignore.git ) 
+
+target/
+
+
+### intellij ( https://github.com/github/gitignore.git ) 
+
+*.iml
+*.ipr
+*.iws
+.idea/
+
+
+### osx ( https://github.com/github/gitignore.git ) 
+
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+### linux ( https://github.com/github/gitignore.git ) 
+
+.*
+!.gitignore
+*~
+
+
+### emacs ( https://github.com/github/gitignore.git ) 
+
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+.elc
+auto-save-list
+tramp
+.\#*
+
+# Org-mode
+.org-id-locations
+*_archive
+
+
+### vim ( https://github.com/github/gitignore.git ) 
+
+*.s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
